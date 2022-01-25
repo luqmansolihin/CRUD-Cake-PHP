@@ -13,6 +13,7 @@ echo $this->Html->link(
     <tr>
         <td>Id</td>
         <td>Title</td>
+        <td>Action</td>
         <td>Created</td>
     </tr>
 
